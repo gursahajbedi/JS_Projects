@@ -9,7 +9,7 @@
 </div>
 
 ### Meal Planner
-- To experience the full view of this website go to [MealPlanner](https://gursahajbedi.github.io/MealPlanner).
+- To experience the full view of this website go to [MealPlanner](https://gursahajbedi.github.io/MealPlan).
 - This website is created using Javascript and focuses on daily logging of Meals, So user can keep a track of what he/she is eating.
 
 ### Weight Calculator
