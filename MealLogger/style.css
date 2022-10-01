@@ -1,0 +1,6 @@
+.container{
+    text-align: center;
+}
+#bf-cancel,#l-cancel,#d-cancel{
+    visibility: hidden;
+}
