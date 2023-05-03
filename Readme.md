@@ -1,6 +1,6 @@
 # Portfolio For All My Projects.
 
-# Made Using MERN STACK
+# Made Using MERN Stack
 - ### Task Manager
 > To experience the full view of this website go to [Task Manager](http://43.204.231.245/TM/).
 > This is used to record Daily Task of the user. This website uses MonogoDB, React, Node and Express.JS and uses Auth 2.0 as its login system.
